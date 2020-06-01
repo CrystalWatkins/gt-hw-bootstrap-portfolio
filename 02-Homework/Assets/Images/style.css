@@ -1,0 +1,21 @@
+<style>
+.navbar {
+  border-bottom: 3px solid lightgrey;
+  }
+.navbar-brand {
+  background-color: darkturquoise;
+  color: white;
+  float:left;
+  display: block;
+  border: 10%, 100%;
+  }
+  .nav-index {
+    float:right;
+  }
+  .nav-portfolio {
+    float: right;
+  }
+  .nav-contact {
+    float: right;
+  }
+</style>
