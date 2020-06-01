@@ -9,21 +9,29 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   border-bottom: 3px solid lightgrey;
   }
 .navbar-brand {
-  background-color: darkturquoise;
   color: white;
-  width: 10%;
+  background-color: darkturquoise;
+  width: 12%;
   float:left;
   display: block;
   }
-  .nav-index {
-    float:right;
+.nav-index {
+  float:right;
   }
-  .nav-portfolio {
-    float: right;
+.nav-portfolio {
+  float: right;
   }
-  .nav-contact {
-    float: right;
+.nav-contact {
+  float: right;
   }
+.card {
+  margin: 10%;
+}
+.card-title {
+  text-align: center;
+  margin: 10%;
+}
 #portfolio-pic {
-    size: 300px 300px;
+    margin: 5%;
+    padding: 5%;
 }
