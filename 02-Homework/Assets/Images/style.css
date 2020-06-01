@@ -1,15 +1,19 @@
-<style>
+body {
+  background-image: url("./tennis-court-background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+/* This photo is a copyright found on website: 
+https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-court-resources.html*/ 
 .navbar {
   border-bottom: 3px solid lightgrey;
   }
 .navbar-brand {
   background-color: darkturquoise;
   color: white;
-  length: 100%
-  width: 10%
+  width: 10%;
   float:left;
   display: block;
-  border: 10%, 100%;
   }
   .nav-index {
     float:right;
@@ -20,4 +24,6 @@
   .nav-contact {
     float: right;
   }
-</style>
+#portfolio-pic {
+    size: 300px 300px;
+}
