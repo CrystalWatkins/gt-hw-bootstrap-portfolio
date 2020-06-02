@@ -12,16 +12,11 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   color:darkturquoise;
 }
 .navbar {
-  border-bottom: 3px solid lightgrey;
-  background-color: darkgrey;
-  color: white
+  border-bottom: 3px solid lightgrey!important;
+  background-color: darkturquoise!important;
   }
-.navbar-brand {
-  color: white;
-  background-color: darkturquoise;
-  width: 20%;
-  float:left;
-  display: block;
+  .navbar-light .navbar-brand {
+    color:white;
   }
 .nav-index {
   float:right;
@@ -53,21 +48,29 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   background-color: darkgray;
   color: white;
   text-align: center;
-
   border-top: 5px solid darkturquoise;  
 }
-#picture-1 {
+#about-me-pic {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
   width: 100%;
   margin: 1%;
 }
+#picture-1 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+  height: 350px;
+  margin: 1%;
+}
 #picture-2 {
 border: 1px solid #ddd;
 border-radius: 4px;
 padding: 5px;
-width: 100%;
+width: 350px;
+height: 350px;
 margin: 1%;
 }
 .flex-container{
