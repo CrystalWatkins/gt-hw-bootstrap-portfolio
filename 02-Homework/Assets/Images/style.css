@@ -1,0 +1,69 @@
+body {
+  background-image: url("./tennis-court-background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+/* This photo is a copyright found on website: 
+https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-court-resources.html*/ 
+.about-me {
+  color: darkturquoise;
+}
+.portfolio {
+  color:darkturquoise;
+}
+.navbar {
+  border-bottom: 3px solid lightgrey;
+  }
+.navbar-brand {
+  color: white;
+  background-color: darkturquoise;
+  width: 20%;
+  float:left;
+  display: block;
+  }
+.nav-index {
+  float:right;
+  }
+.nav-portfolio {
+  float: right;
+  }
+.nav-contact {
+  float: right;
+  }
+.card {
+  margin: 1%;
+}
+#portfolio-pic {
+    margin: 1%;
+    padding: 1%;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: darkgray;
+  color: white;
+  text-align: center;
+
+  border-top: 5px solid darkturquoise;  
+}
+#picture-1 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100%;
+  margin: 1%;
+}
+#picture-2 {
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 100%;
+margin: 1%;
+}
+.flex-container{
+  clear:both;
+  display:flex;
+  flex-direction: column;
+}
