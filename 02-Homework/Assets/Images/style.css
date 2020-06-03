@@ -34,27 +34,21 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   text-align: center;
   border-top: 5px solid darkturquoise;  
 }
-#picture-1 {
+#portfolio-pic {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 350px;
-  height: 350px;
+  width: 100%;
+  height: auto;
   margin: 1%;
 }
-#picture-2 {
-border: 1px solid #ddd;
-border-radius: 4px;
-padding: 5px;
-width: 350px;
-height: 350px;
-margin: 1%;
+.bottomleft {
+  position:absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 18px;
 }
-.flex-container{
-  clear:both;
-  display:flex;
-  flex-direction: column;
-}
+
 #about-me-pic {
   border: 1px solid #ddd;
   border-radius: 1px;
