@@ -15,28 +15,27 @@ using HTML, CSS, and Bootstrap that included an "About Me" page, "Portfolio" pag
 
 ## Installation
 
-<!-- 1. Clone the repo -->
-<!-- 2. Open the index.html file -->
-<!--  -->
-<!-- [Link to Code](https://github.com/CrystalWatkins/gt-semantic-html-homework-01). -->
-<!--   -->
-<!-- [Website link for Horiseon](https://crystalwatkins.github.io/ -->
-<!-- gt-semantic-html-homework-01/). -->
-<!--  -->
+1. Clone the repo
+2. Open the index.html file
+
+[Link to Code](https://github.com/CrystalWatkins/gt-hw-bootstrap-portfolio).
+ 
+[Website link for My Portfolio Page](https://crystalwatkins.github.io/gt-hw-bootstrap-portfolio/index.html)
 
 
 ## Usage 
 
-<!-- This simple HTML file uses best practices for accessibility in programming. -->
-<!--  -->
-<!-- [Link to Code](https://github.com/CrystalWatkins/gt-semantic-html-homework-01). -->
-<!--   -->
-<!-- [Website link for Horiseon](https://crystalwatkins.github.io/ -->
-<!-- gt-semantic-html-homework-01/). -->
-<!--  -->
-<!-- ![Test Page](webpage1.png) -->
-<!--  -->
-<!-- ![please help](webpage2.png) -->
+This simple HTML file uses best practices for accessibility in programming.
+
+[Link to Code](https://github.com/CrystalWatkins/gt-hw-bootstrap-portfolio).
+ 
+[Website link for My Portfolio Page](https://crystalwatkins.github.io/gt-hw-bootstrap-portfolio/index.html).
+
+![Test Page]()
+
+![Test Page]()
+
+![Test Page]()
 
 ## Credits
 
@@ -77,5 +76,5 @@ Not currently taking any additional contributions at this time.
 
 ## Tests
 
-<!-- There is no test needed for this project.  -->
+There is no test needed for this project. 
 
