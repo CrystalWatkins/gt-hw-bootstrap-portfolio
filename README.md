@@ -31,15 +31,15 @@ This simple HTML file uses best practices for accessibility in programming.
  
 [Website link for My Portfolio Page](https://crystalwatkins.github.io/gt-hw-bootstrap-portfolio/index.html).
 
-![Test Page]()
+![Web Page 1](./02-Homework/Assets/Images/webpage1.png)
 
-![Test Page]()
+![Web Page 2](./02-Homework/Assets/Images/webpage2.png)
 
-![Test Page]()
+![Web Page 3](./02-Homework/Assets/Images/webpage3.png)
 
 ## Credits
 
-This was a Portfolio interactive webpage completed as a homework for the Georgia Tech, 
+This was an Interactive Portfolio webpage completed as a homework for the Georgia Tech, 
 FullStack Flex Program.
 
 ## MIT_License
@@ -67,8 +67,7 @@ SOFTWARE.
 
 ## Badges
 
-![badmath](https://img.shields.io/github/stars/CrystalWatkins/
-gt-semantic-html-homework-01?style=social)
+![GitHub followers](https://img.shields.io/github/followers/CrystalWatkins?style=social)
 
 ## Contributing
 
