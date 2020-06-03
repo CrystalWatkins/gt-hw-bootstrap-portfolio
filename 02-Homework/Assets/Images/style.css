@@ -5,40 +5,24 @@ body {
 }
 /* This photo is a copyright found on website: 
 https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-court-resources.html*/ 
-.about-me {
-  color: darkturquoise;
+
+.bg-light{
+  background-color: lightslategrey;
 }
 .portfolio {
   color:darkturquoise;
 }
-.navbar {
-  border-bottom: 3px solid lightgrey!important;
-  background-color: darkturquoise!important;
-  }
-  .navbar-light .navbar-brand {
-    color:white;
-  }
-.nav-index {
-  float:right;
-  }
-.nav-portfolio {
-  float: right;
-  }
-.nav-contact {
-  float: right;
-  }
 .card {
   margin: 1%;
 }
 #portfolio-pic {
-    width: 100%;
-    height: auto;
+    width: 350px;
+    height: 350px;
     margin: 1%;
     padding: 1%;
 }
 .portfolio-text1 {
-  width: 100%;
-  height: auto;
+  text-align: right;
 }
 .footer {
   position: fixed;
@@ -49,13 +33,6 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   color: white;
   text-align: center;
   border-top: 5px solid darkturquoise;  
-}
-#about-me-pic {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 100%;
-  margin: 1%;
 }
 #picture-1 {
   border: 1px solid #ddd;
@@ -77,4 +54,15 @@ margin: 1%;
   clear:both;
   display:flex;
   flex-direction: column;
+}
+#about-me-pic {
+  border: 1px solid #ddd;
+  border-radius: 1px;
+  padding: 5px;
+  width: 350px;
+  height: 350px;
+  margin: 1%;
+}
+#portfolio-text1 {
+  font-size: 18px;
 }

@@ -24,23 +24,29 @@
   </script>
 </head>
 <body>
-    <!--Bootstrap Navbar-->
-    <nav class="navbar expand-top navbar-light bg-light">
-      <a class="navbar-brand" href="index.html">Crystal Watkins</a>
-    <ul class="navbar-index">
-      <p class="nav-index">
-        <a class="nav-link" href="index.html">About</a>
-      </p>
-      <p class="nav-portfolio">
-        <a class="nav-link" href="Portfolio.html">Portfolio</a>
-      </p>
-      <p class="nav-contact">
-        <a class="nav-link" href="contact.html">Contact</a>
-      </p>  
-    </p>
-    </ul>
-</nav>
-
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="./index.html">Crystal Watkins</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" 
+      data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+      aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">About <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="Portfolio.html">Portfolio <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="contact.html">Contact Me <span class="sr-only">(current)</span></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    
 <div class="container">
   <div class="row mt-5"> <!--CHANGE AS NEEDED!-->
       <div class="col-sm-8">
@@ -69,7 +75,7 @@
     rows="3"
     placeholder="Message"></textarea>
     </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-primary">Submit</button>
 </div>
 </div>
 </div>
