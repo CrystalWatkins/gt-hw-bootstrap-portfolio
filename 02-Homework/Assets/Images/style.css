@@ -1,14 +1,14 @@
 body {
-  background-image: url("./tennis-court-background.jpg");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-color: #B4E3E6;
 }
 /* This photo is a copyright found on website: 
 https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-court-resources.html*/ 
-
-.portfolio, .about-me, .contact {
-  color: teal;
+.jumbotron{
+  background-color: #7999AD;
 }
+.portfolio, .about-me, .contact {
+  color:#11527A;
+  font-family: 'Libre Baskerville', serif;
 }
 .portfolio-text1 {
   text-align: right;
@@ -19,24 +19,24 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: darkgray;
+  background-color: #7999AD;
   color: white;
   text-align: center;
-  border-top: 5px solid teal;  
+  border-top: 5px solid#11527A;  
 }
 #portfolio-pic {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 100%;
-  height: auto;
+  width: 350px;
+  height: 350px;
   margin: 1%;
 }
 #about-me-pic {
   border: 1px solid #ddd;
-  border-radius: 1px;
+  border-radius: 15px;
   padding: 5px;
-  width: 350px;
+  width: 200px;
   height: 350px;
   margin: 1%;
 }
@@ -44,14 +44,23 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   left: 0;
   top: 0;
   width: 100%;
-  border-bottom: 5px solid teal;  
+  border-bottom: 5px solid#11527A;  
 }
 .bg-light{
-  background-color: darkgray!important;
+  background-color: #7999AD!important;
   color: white!important;
+  font-family: 'Rubik', sans-serif;
 }
 .navbar-brand{
   color: white!important;
   font-size: larger;
   font-weight: bold;
+  font-family: 'Rubik', sans-serif;
+}
+.nav-link{
+  color: white!important;
+  font-family: 'Rubik', sans-serif;
+}
+.links{
+  color:white
 }
