@@ -8,7 +8,7 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
 
 .portfolio, .about-me, .contact {
   color: teal;
-}
+  font-family: 'Libre Baskerville', serif;
 }
 .portfolio-text1 {
   text-align: right;
@@ -19,7 +19,7 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: darkgray;
+  background-color: lightgray;
   color: white;
   text-align: center;
   border-top: 5px solid teal;  
@@ -28,15 +28,15 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 100%;
-  height: auto;
+  width: 350px;
+  height: 350px;
   margin: 1%;
 }
 #about-me-pic {
   border: 1px solid #ddd;
-  border-radius: 1px;
+  border-radius: 15px;
   padding: 5px;
-  width: 350px;
+  width: 200px;
   height: 350px;
   margin: 1%;
 }
@@ -47,11 +47,17 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   border-bottom: 5px solid teal;  
 }
 .bg-light{
-  background-color: darkgray!important;
+  background-color: lightgrey!important;
   color: white!important;
+  font-family: 'Rubik', sans-serif;
 }
 .navbar-brand{
   color: white!important;
   font-size: larger;
   font-weight: bold;
+  font-family: 'Rubik', sans-serif;
+}
+.nav-link{
+  color: white!important;
+  font-family: 'Rubik', sans-serif;
 }
