@@ -3,7 +3,7 @@
 ## Description 
 
 This is a homework requirement for GT Full Stack Flex Program. This webpage was built 
-using HTML, CSS, and Bootstrap that included an "About Me" page, "Portfolio" page, and a "Contact" page. It was set to look like the example webpages at multiple user interfaces at different screen sizes and is personalized to have my information. 
+using HTML, CSS, and Bootstrap that included an "About Me" page, "Portfolio" page, and a "Contact" page. 
 
 ## Table of Contents
 
@@ -31,11 +31,11 @@ This simple HTML file uses best practices for accessibility in programming.
  
 [Website link for My Portfolio Page](https://crystalwatkins.github.io/gt-hw-bootstrap-portfolio/index.html).
 
-![Web Page 1](./02-Homework/Assets/Images/webpage1.png)
+![Web Page 1](./02-Homework/Assets/Images/aboutme.png)
 
-![Web Page 2](./02-Homework/Assets/Images/webpage2.png)
+![Web Page 2](./02-Homework/Assets/Images/portfolio.png)
 
-![Web Page 3](./02-Homework/Assets/Images/webpage3.png)
+![Web Page 3](./02-Homework/Assets/Images/contact.png)
 
 ## Credits
 
