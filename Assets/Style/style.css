@@ -4,7 +4,7 @@ body {
 /* This photo is a copyright found on website: 
 https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-court-resources.html*/ 
 .jumbotron{
-  background-color: #7999AD;
+  background-color: #D7D7D7;
 }
 .portfolio, .about-me, .contact {
   color:#11527A;
@@ -15,9 +15,7 @@ https://www.usta.com/en/home/organize/grants-and-assistance/national/36_---60_-c
   font-size: 18px;
 }
 .footer {
-  position: sticky;
-  left: 0;
-  bottom: 0;
+  position: sticky !important;
   width: 100%;
   background-color: #7999AD;
   color: white;
